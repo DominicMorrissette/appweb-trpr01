@@ -1,4 +1,4 @@
-Description du projet:
+Description du projet :
 
 J'ai fait une application de gestion de jeux vidéo Qui permet de faire l'ajout, la suppression, la modification et l'affichage d'un jeu.
 L'application permet d'afficher les détails d'un jeu, tout en restant user friendly. De plus, un form de modification est affiché dans la
