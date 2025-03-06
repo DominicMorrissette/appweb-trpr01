@@ -1,3 +1,10 @@
+Description du projet:
+
+J'ai fait une application de gestion de jeux vidéo Qui permet de faire l'ajout, la suppression, la modification et l'affichage d'un jeu.
+L'application permet d'afficher les détails d'un jeu, tout en restant user friendly. De plus, un form de modification est affiché dans la
+card du jeu en question pour s'implifier la modification. Des Modals sont affichés lors de la modification, duplication et la suppression d'un jeux
+Il y a aussi une bar de recherche réactive pour trouver un élément.
+
 Tous les logos affichées dans les boutons sont fait par ChatGPT.
 
 J'ai aussi utiliser la documentation de boostrap sur les Modal pour afficher mes messages de confirmation ou de suppression par exemple.
